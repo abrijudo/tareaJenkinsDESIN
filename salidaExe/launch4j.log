@@ -18,3 +18,23 @@ Launcher:	C:\Program Files (x86)\Java\jdk-21.0.2\bin\javaw.exe
 Launcher args:	-jar "C:\Users\ALUMNOS_FP\Desktop\Jenkins\tareaJenkinsDESIN\salidaExe\ventanaTarea.exe"
 Args length:	87/32768 chars
 Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\ALUMNOS_FP\Desktop\Jenkins\tareaJenkinsDESIN\salidaExe\VentanaTarea.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ALUMNOS_FP\Desktop\Jenkins\tareaJenkinsDESIN\salidaExe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Java\jdk-21.0.2
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\dotnet\;C:\Users\ALUMNOS_FP\Desktop\apache-maven-3.9.6\bin;C:\Program Files (x86)\Java\jdk-21.0.2\bin;C:\Program Files\Odoo 15.0.20220926\python;C:\Users\ALUMNOS_FP\AppData\Local\Microsoft\WindowsApps;C:\Users\ALUMNOS_FP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ALUMNOS_FP\AppData\Roaming\npm;C:\Users\ALUMNOS_FP\AppData\Local\GitHubDesktop\bin;C:\xampp\php;C:\Users\ALUMNOS_FP\.dotnet\tools;C:\Program Files (x86)\Java\jdk-21.0.2\bin
+JRE paths:	C:\Program Files (x86)\Java\jdk-21.0.2;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\dotnet\;C:\Users\ALUMNOS_FP\Desktop\apache-maven-3.9.6\bin;C:\Program Files (x86)\Java\jdk-21.0.2\bin;C:\Program Files\Odoo 15.0.20220926\python;C:\Users\ALUMNOS_FP\AppData\Local\Microsoft\WindowsApps;C:\Users\ALUMNOS_FP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ALUMNOS_FP\AppData\Roaming\npm;C:\Users\ALUMNOS_FP\AppData\Local\GitHubDesktop\bin;C:\xampp\php;C:\Users\ALUMNOS_FP\.dotnet\tools;C:\Program Files (x86)\Java\jdk-21.0.2\bin
+Check launcher:	C:\Program Files (x86)\Java\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\ALUMNOS_FP\Desktop\Jenkins\tareaJenkinsDESIN\salidaExe\VentanaTarea.exe"
+Args length:	87/32768 chars
+Exit code:	0
